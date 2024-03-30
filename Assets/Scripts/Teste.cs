@@ -8,5 +8,6 @@ public class Teste : MonoBehaviour
     {
         //Para completar o desafio, inclua um novo comando print com o seu nome
         print("Igor");
+        print("Raquel");
     }
 }
